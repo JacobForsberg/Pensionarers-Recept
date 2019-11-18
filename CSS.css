@@ -1,8 +1,18 @@
 h1 {
   font-size: 50px;
-  font-family: Arial;
   text-align: center; }
 
-h2, h3, h4 {
+nav > ul{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;  
+  grid-gap: 10px;  }
+
+nav > ul a{
+  padding: 10px;
+  background-color: red;
   font-size: 40px;
   font-family: Arial; }
+  
+body{
+  font-family: Arial;  }
+
