@@ -5,16 +5,19 @@ h1 {
 nav > ul{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;  
-  grid-gap: 10px;  }
+  grid-gap: 10px;
+  list-style:none;}
 
 nav > ul a{
   padding: 10px;
-  background-color: red;
-  font-size: 40px;
-  font-family: Arial; }
+  background-color: #6699ff;
+  font-size: 30px;
+  font-family: Arial;
+  border: 2px solid black;}
   
 body{
-  font-family: Arial;  }
+  font-family: Arial;
+  background-color: #ff4d4d;   }
 
 h3 {
-  clear: both;
+  clear: both; }
