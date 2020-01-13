@@ -18,6 +18,8 @@ nav > ul a{
   font-family: Arial;
   border: 2px solid black;
   border-radius: 10px;  }
+  text-decoration: none;
+
   
 body{
   font-family: Arial;
